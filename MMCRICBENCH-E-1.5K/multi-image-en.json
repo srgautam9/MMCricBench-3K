@@ -1,0 +1,222 @@
+{
+  "1": {
+    "Question": "Which batsman had a strike rate greater than 70 in the first innings?",
+    "Answer": "Alzarri Joseph",
+    "image_paths": [
+      "multi-image/1244026_inning1_with_color3.png",
+      "multi-image/1244026_inning2_with_color3.png",
+      "multi-image/1244026_inning3_with_color3.png",
+      "multi-image/1244026_inning4_with_color3.png"
+    ],
+    "Category": "Basic Arithmetic Reasoning & Conditional Logic"
+  },
+  "2": {
+    "Question": "Which batsman had a strike rate greater than 70 in the first innings?",
+    "Answer": "Alzarri Joseph",
+    "image_paths": [
+      "multi-image/1244026_inning1_with_color3.png",
+      "multi-image/1244026_inning2_with_color3.png",
+      "multi-image/1244026_inning3_with_color3.png",
+      "multi-image/1244026_inning4_with_color3.png"
+    ],
+    "Category": "Basic Arithmetic Reasoning & Conditional Logic"
+  },
+  "3": {
+    "Question": "Which batsman had a strike rate greater than 70 in the first innings?",
+    "Answer": "Alzarri Joseph",
+    "image_paths": [
+      "multi-image/1244026_inning1_with_color3.png",
+      "multi-image/1244026_inning2_with_color3.png",
+      "multi-image/1244026_inning3_with_color3.png",
+      "multi-image/1244026_inning4_with_color3.png"
+    ],
+    "Category": "Basic Arithmetic Reasoning & Conditional Logic"
+  },
+  "4": {
+    "Question": "Which batsman had a strike rate greater than 70 in the first innings?",
+    "Answer": "Alzarri Joseph",
+    "image_paths": [
+      "multi-image/1244026_inning1_with_color3.png",
+      "multi-image/1244026_inning2_with_color3.png",
+      "multi-image/1244026_inning3_with_color3.png",
+      "multi-image/1244026_inning4_with_color3.png"
+    ],
+    "Category": "Basic Arithmetic Reasoning & Conditional Logic"
+  },
+  "5": {
+    "Question": "Which bowler had the better economy rate in the first innings?",
+    "Answer": "Mustafizur Rahman",
+    "image_paths": [
+      "multi-image/1083444_inning1_with_color3.png",
+      "multi-image/1083444_inning2_with_color3.png",
+      "multi-image/1083444_inning3_with_color3.png",
+      "multi-image/1083444_inning4_with_color3.png"
+    ],
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "6": {
+    "Question": "Which bowler had the better economy rate in the first innings?",
+    "Answer": "Mustafizur Rahman",
+    "image_paths": [
+      "multi-image/1083444_inning1_with_color3.png",
+      "multi-image/1083444_inning2_with_color3.png",
+      "multi-image/1083444_inning3_with_color3.png",
+      "multi-image/1083444_inning4_with_color3.png"
+    ],
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "7": {
+    "Question": "Which bowler had the better economy rate in the first innings?",
+    "Answer": "Mustafizur Rahman",
+    "image_paths": [
+      "multi-image/1083444_inning1_with_color3.png",
+      "multi-image/1083444_inning2_with_color3.png",
+      "multi-image/1083444_inning3_with_color3.png",
+      "multi-image/1083444_inning4_with_color3.png"
+    ],
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "8": {
+    "Question": "Which bowler had the better economy rate in the first innings?",
+    "Answer": "Mustafizur Rahman",
+    "image_paths": [
+      "multi-image/1083444_inning1_with_color3.png",
+      "multi-image/1083444_inning2_with_color3.png",
+      "multi-image/1083444_inning3_with_color3.png",
+      "multi-image/1083444_inning4_with_color3.png"
+    ],
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "9": {
+    "Question": "Which innings had the maximum maidens?",
+    "Answer": "3",
+    "image_paths": [
+      "multi-image/1243385_inning1_with_color1.png",
+      "multi-image/1243385_inning2_with_color1.png",
+      "multi-image/1243385_inning3_with_color1.png",
+      "multi-image/1243385_inning4_with_color1.png"
+    ],
+    "Category": "Direct Retrieval & Simple Inference"
+  },
+  "10": {
+    "Question": "Which innings had the maximum maidens?",
+    "Answer": "3",
+    "image_paths": [
+      "multi-image/1243385_inning1_with_color1.png",
+      "multi-image/1243385_inning2_with_color1.png",
+      "multi-image/1243385_inning3_with_color1.png",
+      "multi-image/1243385_inning4_with_color1.png"
+    ],
+    "Category": "Direct Retrieval & Simple Inference"
+  },
+  "11": {
+    "Question": "Which innings had the maximum maidens?",
+    "Answer": "3",
+    "image_paths": [
+      "multi-image/1243385_inning1_with_color1.png",
+      "multi-image/1243385_inning2_with_color1.png",
+      "multi-image/1243385_inning3_with_color1.png",
+      "multi-image/1243385_inning4_with_color1.png"
+    ],
+    "Category": "Direct Retrieval & Simple Inference"
+  },
+  "12": {
+    "Question": "Which innings had the maximum maidens?",
+    "Answer": "3",
+    "image_paths": [
+      "multi-image/1243385_inning1_with_color1.png",
+      "multi-image/1243385_inning2_with_color1.png",
+      "multi-image/1243385_inning3_with_color1.png",
+      "multi-image/1243385_inning4_with_color1.png"
+    ],
+    "Category": "Direct Retrieval & Simple Inference"
+  },
+  "13": {
+    "Question": "How many byes did Team 1 concede?",
+    "Answer": "17",
+    "image_paths": [
+      "multi-image/1252073_inning1_with_color1.png",
+      "multi-image/1252073_inning2_with_color1.png",
+      "multi-image/1252073_inning3_with_color1.png",
+      "multi-image/1252073_inning4_with_color1.png"
+    ],
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "14": {
+    "Question": "How many byes did Team 1 concede?",
+    "Answer": "17",
+    "image_paths": [
+      "multi-image/1252073_inning1_with_color1.png",
+      "multi-image/1252073_inning2_with_color1.png",
+      "multi-image/1252073_inning3_with_color1.png",
+      "multi-image/1252073_inning4_with_color1.png"
+    ],
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "15": {
+    "Question": "How many byes did Team 1 concede?",
+    "Answer": "17",
+    "image_paths": [
+      "multi-image/1252073_inning1_with_color1.png",
+      "multi-image/1252073_inning2_with_color1.png",
+      "multi-image/1252073_inning3_with_color1.png",
+      "multi-image/1252073_inning4_with_color1.png"
+    ],
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "16": {
+    "Question": "How many byes did Team 1 concede?",
+    "Answer": "17",
+    "image_paths": [
+      "multi-image/1252073_inning1_with_color1.png",
+      "multi-image/1252073_inning2_with_color1.png",
+      "multi-image/1252073_inning3_with_color1.png",
+      "multi-image/1252073_inning4_with_color1.png"
+    ],
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "17": {
+    "Question": "Which batsman had the highest strike rate (minimum 10 balls faced)?",
+    "Answer": "Stuart Broad",
+    "image_paths": [
+      "multi-image/1031663_inning1_with_color1.png",
+      "multi-image/1031663_inning2_with_color1.png",
+      "multi-image/1031663_inning3_with_color1.png",
+      "multi-image/1031663_inning4_with_color1.png"
+    ],
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "18": {
+    "Question": "Which batsman had the highest strike rate (minimum 10 balls faced)?",
+    "Answer": "Stuart Broad",
+    "image_paths": [
+      "multi-image/1031663_inning1_with_color1.png",
+      "multi-image/1031663_inning2_with_color1.png",
+      "multi-image/1031663_inning3_with_color1.png",
+      "multi-image/1031663_inning4_with_color1.png"
+    ],
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "19": {
+    "Question": "Which batsman had the highest strike rate (minimum 10 balls faced)?",
+    "Answer": "Stuart Broad",
+    "image_paths": [
+      "multi-image/1031663_inning1_with_color1.png",
+      "multi-image/1031663_inning2_with_color1.png",
+      "multi-image/1031663_inning3_with_color1.png",
+      "multi-image/1031663_inning4_with_color1.png"
+    ],
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "20": {
+    "Question": "Which batsman had the highest strike rate (minimum 10 balls faced)?",
+    "Answer": "Stuart Broad",
+    "image_paths": [
+      "multi-image/1031663_inning1_with_color1.png",
+      "multi-image/1031663_inning2_with_color1.png",
+      "multi-image/1031663_inning3_with_color1.png",
+      "multi-image/1031663_inning4_with_color1.png"
+    ],
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  }
+}

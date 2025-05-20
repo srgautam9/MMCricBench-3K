@@ -1,0 +1,122 @@
+{
+  "1": {
+    "Question": "Who got out for a duck in the second innings?",
+    "Answer": "Mohammad Hafeez",
+    "image_paths": "single-image/1075988_2innings_with_color1.png",
+    "Category": "Basic Arithmetic Reasoning & Conditional Logic"
+  },
+  "2": {
+    "Question": "Which batsman was dismissed for a golden duck in the match?",
+    "Answer": "Shadab Khan",
+    "image_paths": "single-image/1247016_2innings_with_color1.png",
+    "Category": "Basic Arithmetic Reasoning & Conditional Logic"
+  },
+  "3": {
+    "Question": "Has Adam Zampa taken more wickets than Nathan Coulter-Nile?",
+    "Answer": "yes",
+    "image_paths": "single-image/1195594_2innings_with_color3.png",
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "4": {
+    "Question": "Which innings had the maximum maidens?",
+    "Answer": "1",
+    "image_paths": "single-image/1098210_2innings_with_color1.png",
+    "Category": "Direct Retrieval & Simple Inference"
+  },
+  "5": {
+    "Question": "Has the same fielder caught any batsman twice?",
+    "Answer": "no",
+    "image_paths": "single-image/1195578_2innings_with_color3.png",
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "6": {
+    "Question": "Has the same fielder caught any batsman twice?",
+    "Answer": "no",
+    "image_paths": "single-image/1119545_2innings_with_color3.png",
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "7": {
+    "Question": "Did any batsman score a century in the match?",
+    "Answer": "yes",
+    "image_paths": "single-image/1185310_2innings_with_color3.png",
+    "Category": "Direct Retrieval & Simple Inference"
+  },
+  "8": {
+    "Question": "Which batsman had the highest boundary percentage?",
+    "Answer": "Anwar Ali",
+    "image_paths": "single-image/1075996_2innings_with_color1.png",
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "9": {
+    "Question": "Which batsman had the highest strike rate (minimum 10 balls faced)?",
+    "Answer": "Glenn Maxwell",
+    "image_paths": "single-image/1174239_2innings_with_color3.png",
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "10": {
+    "Question": "How many extras were bowled in the first innings?",
+    "Answer": "15",
+    "image_paths": "single-image/1203676_2innings_with_color3.png",
+    "Category": "Basic Arithmetic Reasoning & Conditional Logic"
+  },
+  "11": {
+    "Question": "Which batsman had a strike rate greater than 70 in the first innings?",
+    "Answer": "Aaron Finch",
+    "image_paths": "single-image/1187029_2innings_with_color1.png",
+    "Category": "Basic Arithmetic Reasoning & Conditional Logic"
+  },
+  "12": {
+    "Question": "How many batsmen have scored a century?",
+    "Answer": "none",
+    "image_paths": "single-image/1168831_2innings_with_color3.png",
+    "Category": "Direct Retrieval & Simple Inference"
+  },
+  "13": {
+    "Question": "Has KL Rahul hit more boundaries than Rohit Sharma?",
+    "Answer": "no",
+    "image_paths": "single-image/1144526_2innings_with_color1.png",
+    "Category": "Direct Retrieval & Simple Inference"
+  },
+  "14": {
+    "Question": "Did any bowler take a 5-fer in the match?",
+    "Answer": "no",
+    "image_paths": "single-image/1140382_2innings_with_color3.png",
+    "Category": "Direct Retrieval & Simple Inference"
+  },
+  "15": {
+    "Question": "Which innings had the higher run rate?",
+    "Answer": "2",
+    "image_paths": "single-image/1072318_2innings_with_color1.png",
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "16": {
+    "Question": "Which bowler has bowled the most no-balls in the match?",
+    "Answer": "Yuzvendra Chahal",
+    "image_paths": "single-image/1136589_2innings_with_color1.png",
+    "Category": "Direct Retrieval & Simple Inference"
+  },
+  "17": {
+    "Question": "Did any batsman score a century in the match?",
+    "Answer": "yes",
+    "image_paths": "single-image/1000893_2innings_with_color1.png",
+    "Category": "Direct Retrieval & Simple Inference"
+  },
+  "18": {
+    "Question": "How many byes did Team 1 concede?",
+    "Answer": "2",
+    "image_paths": "single-image/1023581_2innings_with_color1.png",
+    "Category": "Multi-step Reasoning & Quantitative Analysis"
+  },
+  "19": {
+    "Question": "What is Jack Wildermuth's strike rate?",
+    "Answer": "209.09",
+    "image_paths": "single-image/1114881_2innings_with_color1.png",
+    "Category": "Basic Arithmetic Reasoning & Conditional Logic"
+  },
+  "20": {
+    "Question": "What is Thisara Perera's strike rate?",
+    "Answer": "166.67",
+    "image_paths": "single-image/1122727_2innings_with_color1.png",
+    "Category": "Basic Arithmetic Reasoning & Conditional Logic"
+  }
+}
